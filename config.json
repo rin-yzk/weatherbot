@@ -1,0 +1,16 @@
+{
+    "post_time": "07:20",
+    "channel_id": DISCORD-CHANNLE-ID,
+    "locations": [
+        {
+            "name": "\u4e98\u7406",
+            "latitude": 38.0396312,
+            "longitude": 140.8613
+        },
+        {
+            "name": "\u4ed9\u53f0",
+            "latitude": 33.5302708,
+            "longitude": 113.450547
+        }
+    ]
+}
